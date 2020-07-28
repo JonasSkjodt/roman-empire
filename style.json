@@ -10,7 +10,7 @@
   "sources": {
     "roman-empire": {
       "type": "vector",
-      "url": "/maps/roman-map-maptiler.json"
+      "url": "roman-map-maptiler.json"
     },
     "color-relief": {
       "type": "raster",
